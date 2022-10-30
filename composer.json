@@ -1,0 +1,16 @@
+{
+    "name": "sanslan/welcomer",
+    "description": "This is my awsome welcomer symfony bundle",
+    "type": "bundle",
+    "autoload": {
+        "psr-4": {
+            "Sanslan\\Welcomer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sanslan"
+        }
+    ],
+    "require": {}
+}
